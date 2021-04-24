@@ -3,7 +3,7 @@
 I’m interested in Python, automation and currently learning Python.
 
 📫 How to reach me:
-  - Telegram: [@aryadovoy](t.me/aryadovoy)
+  - Telegram: [@aryadovoy](https://t.me/aryadovoy)
   - E-mail: ryav.omsk@gmail.com
 
 <!---
