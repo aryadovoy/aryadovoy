@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @aryadovoy
 
-I’m interested in Python, automation and currently learning Python.
+I’m interested in Python, automation and Linux.
 
 📫 How to reach me:
   - Telegram: [@aryadovoy](https://t.me/aryadovoy)
